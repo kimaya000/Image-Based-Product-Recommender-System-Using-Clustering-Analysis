@@ -1,1 +1,3 @@
 # Image-Based-Product-Recommender-System-Using-Clustering-Analysis
+Scraped 8000+ images Ikea’s official website, and processed using ViT-MAE model followed by Principal Component Analysis for dimensionality reduction. Performed comparative clustering analysis on the transformed images to form groups which would be used as the basis of a recommendation system.
+Explored libraries like BeautifulSoup, Requests and Selenium while web-scraping, database management software like pgAdmin for PostgreSQL and unsupervised machine learning techniques like KMeans++, Gaussian Mixture Model, KMedoids, Birch etc.
